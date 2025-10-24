@@ -1,0 +1,6 @@
+@mslearn_dotnet_files_HostAddress = http://localhost:5046
+
+GET {{mslearn_dotnet_files_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
